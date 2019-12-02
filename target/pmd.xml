@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.13.0" timestamp="2019-12-02T11:46:50.619">
+<file name="/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/controller/AccountController.java">
+<violation beginline="53" endline="56" begincolumn="33" endcolumn="33" rule="CollapsibleIfStatements" ruleset="Design" package="edu.ifrs.poa.controller" class="AccountController" method="accountActive" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_design.html#collapsibleifstatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/controller/ClientsController.java">
+<violation beginline="54" endline="57" begincolumn="33" endcolumn="33" rule="CollapsibleIfStatements" ruleset="Design" package="edu.ifrs.poa.controller" class="ClientsController" method="clientActive" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_design.html#collapsibleifstatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+<file name="/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/tests/TestClientsController.java">
+<violation beginline="1" endline="107" begincolumn="1" endcolumn="2" rule="TooManyStaticImports" ruleset="Code Style" package="edu.ifrs.poa.tests" class="TestClientsController" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#toomanystaticimports" priority="3">
+Too many static imports may lead to messy code
+</violation>
+</file>
+</pmd>

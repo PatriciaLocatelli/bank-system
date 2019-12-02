@@ -1,0 +1,9 @@
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/entity/CurrentAccount.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/exception/AgeException.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/controller/AccountController.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/controller/ClientsController.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/entity/Client.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/tests/TestAccountController.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/tests/Tests.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/tests/TestClientsController.java
+/home/paty/eclipse-workspace/BankSystem/src/edu/ifrs/poa/program/Program.java
